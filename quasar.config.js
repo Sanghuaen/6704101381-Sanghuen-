@@ -35,7 +35,7 @@ export default defineConfig((ctx) => {
 
     // Full list of options: https://v2.quasar.dev/quasar-cli-webpack/quasar-config-file#build
     build: {
-       publicPath: '/6740101381-sanghuen-/',
+       publicPath: '/6704101381-Sanghuen-/',
       //vueRouterMode: 'hash', // available values: 'hash', 'history'
 
       // webpackTranspile: false,
